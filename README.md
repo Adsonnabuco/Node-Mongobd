@@ -1,2 +1,2 @@
 # Node-Mongobd
-Learning a lither bit of Node.js and data base mongodb.
+Learning a litter bit of Node.js and database mongodb.
